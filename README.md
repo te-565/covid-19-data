@@ -1,7 +1,9 @@
 # covid-19-data
 Links to various COVID-19 resources, APIs and datasets. Most of the resources links contain further links to datasets etc.
 
-Be sure to check the [Github Awesome Coronavirus Repository](https://github.com/soroushchehresa/awesome-coronavirus) & [Kaggle COVID-19 Datasets & Kernels](https://www.kaggle.com/tags/covid19) first.
+Be sure to check the [Github Awesome Coronavirus Repository](https://github.com/soroushchehresa/awesome-coronavirus) & [Kaggle COVID-19 Datasets & Kernels](https://www.kaggle.com/tags/covid19) first as these contain a wealth of material.
+
+Also note that there are a number of [Kaggle COVID-19 Competitions](https://www.kaggle.com/search?q=COVID+in%3Acompetitions) ongoing.
 
 ## Resources
 * [Github Awesome Coronavirus Repository](https://github.com/soroushchehresa/awesome-coronavirus)
@@ -20,3 +22,6 @@ Be sure to check the [Github Awesome Coronavirus Repository](https://github.com/
 ## Datasets
 * [Patient Dataset](https://docs.google.com/spreadsheets/d/1Lu_qPQg9Hk-wJKYFOLxkjIJpbKFMzTQB1qN8u2MfqPA/edit#gid=1187587451)
 * [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research)
+
+
+Also note that there are 
